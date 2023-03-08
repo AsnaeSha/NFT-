@@ -1,0 +1,11 @@
+{
+  "name": "My NFT",
+  "description": "This is my awesome NFT!",
+  "image": "https://gateway.pinata.cloud/ipfs/QmYx6GsYAKnNzZ9A6NvEKV9nf1VaDzJrqDR23Y8YSkebLU?_gl=1*114mbfr*_ga*NzM2OTAyMzAwLjE2NjQ5NTc4MTc.*_ga_5RMPXG14TE*MTY3Njk4OTQ1NC4xLjEuMTY3Njk4OTc2MC42MC4wLjA.",
+  "attributes": [
+    {
+      "trait_type": "shiba-inu",
+      "color": "white"
+    }
+  ]
+}
